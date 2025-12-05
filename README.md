@@ -88,17 +88,6 @@ Bypasses silent failures + eliminates selection latency in GradMatch.
   Investigated the root theoretical causes of instability issues in the standard CORDS implementation, helping guide the need for a robust alternative.
 
 
-# 📚 References
-
-- **GradMatch:**  
-  Killamsetty et al., *Grad-Match: Gradient Matching based Data Subset Selection for Efficient Deep Model Training*, ICML 2021.
-
-- **GLISTER:**  
-  Killamsetty et al., *GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning*, AAAI 2021.
-
-- **CodeCarbon:**  
-  Schmidt et al., *CodeCarbon: Estimate and Track Carbon Emissions from Machine Learning Computing*, 2021.
-
 ## How to Run
 
 
